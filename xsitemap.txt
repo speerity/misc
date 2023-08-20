@@ -1,0 +1,3 @@
+Sitemap: https://github.com/speerity/misc/xsitemap.txt
+https://exium.net
+https://docs.exium.net
